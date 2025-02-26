@@ -1,0 +1,15 @@
+{
+  "name": "tpstav_web",
+  "version": "1.0.0",
+  "description": "tp_stav webovky",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/lukasos1/tp_stav"
+  },
+  "author": "lukasos1",
+  "license": "ISC"
+}
